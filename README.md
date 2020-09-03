@@ -1,4 +1,4 @@
-!['hei'](./hello.png 'hello~')
+![hei](https://s1.ax1x.com/2020/09/03/wCoZhq.jpg)
 
 I am a humorous programmer from Anhui, China.   
 I hope that the content I write can bring you learning and technical help.   
