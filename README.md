@@ -7,5 +7,5 @@ If there is something wrong or need to be modified, please leave a message or ad
 ```
 📚 System.out.println("Hello,World!");  
 💻 console.log("Hello,world!");  
-📑 print("hello,world!")
+📑 print("Hello,world!")
 ```
