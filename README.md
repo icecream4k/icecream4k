@@ -1,5 +1,4 @@
 # Hi there 👋 I'm Lawrence Han!
-[![wCoZhq.jpg](https://s1.ax1x.com/2020/09/03/wCoZhq.jpg)](https://imgchr.com/i/wCoZhq)
 - 🌋   ***O ever youthful, O ever weeping***
 - 🏝   I am a happy programmer from Anhui, China and working in Hangzhou, China.
 - 🏔   Remember to have tea at three in the afternoon.
